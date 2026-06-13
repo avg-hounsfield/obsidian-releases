@@ -33206,5 +33206,12 @@
     "author": "Katsuhiko Hata",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Zoom the whole app in and out with Ctrl + mouse wheel (scroll up to zoom in, down to zoom out), like a browser. Trackpad pinch-to-zoom works too.",
     "repo": "hata-suriiken/obsidian-ctrl-scroll-zoom"
+  },
+  {
+    "id": "grai-references",
+    "name": "GRAi Pathology References",
+    "author": "avg-hounsfield",
+    "description": "Insert hyperlink references to radiology pathologies while writing notes.",
+    "repo": "avg-hounsfield/obsidian_GRAi"
   }
 ]
